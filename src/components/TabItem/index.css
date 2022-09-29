@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.btn {
+  font-weight: bold;
+  font-family: roboto;
+  background-color: transparent;
+  border: 0px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #7b8794;
+  border-bottom: 1px solid #c7ccd1;
+}
+.active-btn {
+  font-size: 25px;
+  border-bottom: 2px solid #2563eb;
+}

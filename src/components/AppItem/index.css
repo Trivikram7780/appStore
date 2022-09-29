@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  background-color: white;
+  background-size: cover;
+  width: 6vw;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  margin-left: 25px;
+}
+.image {
+  height: 45px;
+}
+.name {
+  text-align: center;
+  font-size: 15px;
+}
